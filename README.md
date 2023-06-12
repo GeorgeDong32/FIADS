@@ -3,6 +3,6 @@ An FPGA-based image acquisition and display system, referred to as FIADS. It con
 
 ## License
 
-Under CC BY-NC-ND License
+Under CC BY-NC-SA License
 
 ![License](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
