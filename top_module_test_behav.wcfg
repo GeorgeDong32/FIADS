@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="top_module_test_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="top_module_test" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000000 us"></ZoomStartTime>
+      <ZoomEndTime time="1,718.000001 us"></ZoomEndTime>
+      <Cursor1Time time="226.455299 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="264"></NameColumnWidth>
+      <ValueColumnWidth column_width="94"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="21" />
+   <wvobject fp_name="/top_module_test/clk1" type="logic">
+      <obj_property name="ElementShortName">clk1</obj_property>
+      <obj_property name="ObjectShortName">clk1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/clk2" type="logic">
+      <obj_property name="ElementShortName">clk2</obj_property>
+      <obj_property name="ObjectShortName">clk2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/rst_n" type="logic">
+      <obj_property name="ElementShortName">rst_n</obj_property>
+      <obj_property name="ObjectShortName">rst_n</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/init_en" type="logic">
+      <obj_property name="ElementShortName">init_en</obj_property>
+      <obj_property name="ObjectShortName">init_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/scl" type="logic">
+      <obj_property name="ElementShortName">scl</obj_property>
+      <obj_property name="ObjectShortName">scl</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/sda" type="logic">
+      <obj_property name="ElementShortName">sda</obj_property>
+      <obj_property name="ObjectShortName">sda</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/vsync_r" type="logic">
+      <obj_property name="ElementShortName">vsync_r</obj_property>
+      <obj_property name="ObjectShortName">vsync_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/href_r" type="logic">
+      <obj_property name="ElementShortName">href_r</obj_property>
+      <obj_property name="ObjectShortName">href_r</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/din_r" type="array">
+      <obj_property name="ElementShortName">din_r[7:0]</obj_property>
+      <obj_property name="ObjectShortName">din_r[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/vsync" type="logic">
+      <obj_property name="ElementShortName">vsync</obj_property>
+      <obj_property name="ObjectShortName">vsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/href" type="logic">
+      <obj_property name="ElementShortName">href</obj_property>
+      <obj_property name="ObjectShortName">href</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/din" type="array">
+      <obj_property name="ElementShortName">din[7:0]</obj_property>
+      <obj_property name="ObjectShortName">din[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/pclk" type="logic">
+      <obj_property name="ElementShortName">pclk</obj_property>
+      <obj_property name="ObjectShortName">pclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/xclk" type="logic">
+      <obj_property name="ElementShortName">xclk</obj_property>
+      <obj_property name="ObjectShortName">xclk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/pwdn" type="logic">
+      <obj_property name="ElementShortName">pwdn</obj_property>
+      <obj_property name="ObjectShortName">pwdn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/vga_rgb" type="array">
+      <obj_property name="ElementShortName">vga_rgb[11:0]</obj_property>
+      <obj_property name="ObjectShortName">vga_rgb[11:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/vga_hs" type="logic">
+      <obj_property name="ElementShortName">vga_hs</obj_property>
+      <obj_property name="ObjectShortName">vga_hs</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/vga_vs" type="logic">
+      <obj_property name="ElementShortName">vga_vs</obj_property>
+      <obj_property name="ObjectShortName">vga_vs</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/clk_period1" type="array">
+      <obj_property name="ElementShortName">clk_period1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_period1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_module_test/clk_period2" type="array">
+      <obj_property name="ElementShortName">clk_period2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">clk_period2[31:0]</obj_property>
+   </wvobject>
+</wave_config>
